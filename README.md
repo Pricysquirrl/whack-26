@@ -1,6 +1,6 @@
 # whack-26
 
-Computer vision fruit ninja game with a heckling AI rival that reacts to game state and facial expressions.
+Low latency computer vision hand-tracking fruit ninja game with a heckling AI rival that reacts to game state and facial expressions.
 Made for WHACK 26 (Warwick Hackathon)
 
 <img width="806" height="509" alt="fruit_ninja_gameplay" src="https://github.com/user-attachments/assets/6f87ef19-252a-40a7-ba30-553c67433588" />
