@@ -48,6 +48,4 @@ Each part exposes `run(stop_event, ...)`; see the top of `main.py`. Shared inter
 ## Results and credits
 
 - Reliability check (grip/open, 4 people, both hands): `results/reliability_table.md`, produced by `tools/reliability_check.py` + `tools/reliability_summary.py`.
-- Pitch numbers slide: `results/numbers_slide.png` (`tools/make_numbers_slide.py`).
-- Demo docs (Devpost draft, pitch script, video shot list, Sunday runbook): `docs/`.
 - Art: all pixel art drawn in code (`tools/gen_art.py`). Sounds and font: CC0 / OFL, full list in [`assets/CREDITS.md`](assets/CREDITS.md).
