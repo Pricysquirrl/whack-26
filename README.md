@@ -1,6 +1,7 @@
 # whack-26
 
-One-hand webcam sword fruit game with a heckling AI rival (GRIP-9000). See `SPEC.md`.
+Computer vision fruit ninja game with a heckling AI rival that reacts to game state and facial expressions.
+Made for WHACK 26 (Warwick Hackathon)
 
 <img width="806" height="509" alt="fruit_ninja_gameplay" src="https://github.com/user-attachments/assets/6f87ef19-252a-40a7-ba30-553c67433588" />
 
