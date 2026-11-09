@@ -2,6 +2,8 @@
 
 One-hand webcam sword fruit game with a heckling AI rival (GRIP-9000). See `SPEC.md`.
 
+<img width="806" height="509" alt="fruit_ninja_gameplay" src="https://github.com/user-attachments/assets/6f87ef19-252a-40a7-ba30-553c67433588" />
+
 ## Setup (Python 3.11, macOS)
 
 macOS / Linux:
